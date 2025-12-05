@@ -51,6 +51,38 @@
 			},
 			{
 				"inputs": [],
+				"name": "getAllMembers",
+				"outputs": [
+					{
+						"internalType": "address[]",
+						"name": "",
+						"type": "address[]"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "isMember",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "memberCount",
 				"outputs": [
 					{
@@ -152,11 +184,11 @@
 	},
 	"sources": {
 		"contract/safeClub.sol": {
-			"keccak256": "0x1c81abe5b9ab00a83e98429f4f21a63a9856b9582e148dc55071b582c0e50bd2",
+			"keccak256": "0x485b7752d74a9dd724d4de250d134b78a426c4b03953586a3d3e99059109e2c9",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://c282c14a40fcd7b3feea8587e446307d6cf071f2e1c72e66cf19bdbc61557d26",
-				"dweb:/ipfs/QmRsMkFohfn7JHBMguTfSQc9RqcHtMVyMGUtRAYZSfnLzq"
+				"bzz-raw://cfe11dfe9d924ea7be8c82cf5d04dfa75cba43a22181f59dd518ce678a3b344c",
+				"dweb:/ipfs/QmQsiaNQg9v72Q921HneifWWbnjmSZwUTZAwcbRfosCfGG"
 			]
 		}
 	},
