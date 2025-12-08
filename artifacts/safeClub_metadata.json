@@ -154,11 +154,8 @@
 			}
 		],
 		"devdoc": {
-			"custom:dev-run-script": "./scripts/deploy_with_ethers.ts",
-			"details": "Store & retrieve value in a variable",
 			"kind": "dev",
 			"methods": {},
-			"title": "Storage",
 			"version": 1
 		},
 		"userdoc": {
@@ -184,11 +181,11 @@
 	},
 	"sources": {
 		"contract/safeClub.sol": {
-			"keccak256": "0x485b7752d74a9dd724d4de250d134b78a426c4b03953586a3d3e99059109e2c9",
+			"keccak256": "0x57752cc65d5de8de326ec20de4e052aba741868226354cb23fadf1a2cbb095f0",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://cfe11dfe9d924ea7be8c82cf5d04dfa75cba43a22181f59dd518ce678a3b344c",
-				"dweb:/ipfs/QmQsiaNQg9v72Q921HneifWWbnjmSZwUTZAwcbRfosCfGG"
+				"bzz-raw://25819f25926d4e4ca5aa26fd4aaacc66d0fb977fc3f32346f1d2bc5e6c32519a",
+				"dweb:/ipfs/QmcmTxDFgK1T1fXAmskhpBFEWtqQ3cDJCFEBHa7tuA2iDJ"
 			]
 		}
 	},
