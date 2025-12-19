@@ -34,7 +34,7 @@ export default defineConfig({
             // chainId/networkId de Ganache (par défaut 5777)
             chainId: 5777,
             // Première adresse Ganache (owner du contrat SimpleTreasuryClub)
-            accounts: ["0x2a30499bc4bd74764938361d0c83e0b525d49a5fa466eb8fe1acc61f74e850a5"],
+            accounts: ["0x50f0f0bb99f93aead025bf3ee9e85954d0126c09e101a89b55ccc261903d30a9"],
         },
         hardhatMainnet: {
             type: "edr-simulated",
