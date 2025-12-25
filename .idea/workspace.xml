@@ -14,6 +14,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -86,6 +87,7 @@
       <workItem from="1766140460745" duration="1073000" />
       <workItem from="1766143773955" duration="6999000" />
       <workItem from="1766215462059" duration="4114000" />
+      <workItem from="1766689100005" duration="883000" />
     </task>
     <servers />
   </component>
